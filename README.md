@@ -1,0 +1,1 @@
+# Game Of thrones - first practical project on Skill-Branch Middle Android in Kotlin course (2019)
