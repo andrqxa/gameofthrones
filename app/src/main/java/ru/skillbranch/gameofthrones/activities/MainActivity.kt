@@ -20,10 +20,11 @@
  * SOFTWARE.
  */
 
-package ru.skillbranch.gameofthrones
+package ru.skillbranch.gameofthrones.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import ru.skillbranch.gameofthrones.R
 
 class MainActivity : AppCompatActivity() {
 
